@@ -1,4 +1,4 @@
-package Servais;
+package services;
 
 import entity.Client;
 import entity.Planet;
